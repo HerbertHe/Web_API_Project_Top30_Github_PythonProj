@@ -1,0 +1,2 @@
+# Web_API_Project_Top30_Github_PythonProj
+一个通过调用GitHub的API搜索GitHub中Python项目通过stars排名前30名的项目的py脚本
